@@ -1,0 +1,10 @@
+15:42:41.995 module=Helloworld.CalculatorServer function=start_link/1 [info] This is an info message
+15:42:41.997 module=Helloworld.CalculatorServer function=start_link/1 [debug] Debug information
+15:42:41.998 module=application_controller function=info_exited/3 [info] Application helloworld exited: Helloworld.start(:normal, []) returned an error: shutdown: failed to start child: Helloworld.CalculatorServer
+    ** (EXIT) :ok
+15:42:41.998 module=application_controller function=info_exited/3 [info] Application logger_file_backend exited: :stopped
+15:43:29.444 module=Helloworld.CalculatorServer function=start_link/1 [info] This is an info message
+15:43:29.444 module=Helloworld.CalculatorServer function=start_link/1 [debug] Debug information
+15:43:29.444 module=application_controller function=info_exited/3 [info] Application helloworld exited: Helloworld.start(:normal, []) returned an error: shutdown: failed to start child: Helloworld.CalculatorServer
+    ** (EXIT) :ok
+15:43:29.462 module=application_controller function=info_exited/3 [info] Application logger_file_backend exited: :stopped
